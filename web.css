@@ -1,0 +1,21 @@
+div{
+    background: #eeeeee;
+    width: 40%;
+    height: 300;
+    border-radius: 5px;
+    border: 1px solid #888888;
+    //text-indent:100;
+    box-shadow: 5px 5px 5px #dddddd;
+
+}
+
+input[type="text"]{
+    border: 1px solid #666666;
+    background: #ffffff;
+    height: 30px;
+
+}
+
+body{
+    font-family: calibri;
+}
